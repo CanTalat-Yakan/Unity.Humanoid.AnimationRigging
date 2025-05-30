@@ -1,0 +1,16 @@
+{
+    "name": "UnityEssentials.AnimationRigging",
+    "rootNamespace": "UnityEssentials",
+    "references": [
+        "GUID:72a9fca735ca6474ebd8a1debfd2bb9e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
