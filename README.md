@@ -26,9 +26,9 @@ Install the Unity Essentials entry package via Unity's Package Manager, then ins
 
 # Humanoid Animation Rigging
 
-> Quick overview: A lightweight head/aim "look target" helper. Keeps a tracking target in front of the character, mirrors when the real target goes behind, clamps vertical angles, and applies smoothing—ideal for Animation Rigging Multi-Aim/LookAt or Animator LookAt.
+> Quick overview: A lightweight head/aim "look target" helper. Keeps a tracking target in front of the character, mirrors when the real target goes behind, clamps vertical angles, and applies smoothing - ideal for Animation Rigging Multi-Aim/LookAt or Animator LookAt.
 
-A single-component utility that produces a stable, believable look/aim target in front of a character. It mirrors when the real target goes behind, enforces vertical angle limits to avoid neck-breaking poses, and smooths the motion to prevent jitter—perfect as input for Animation Rigging constraints or Animator LookAt.
+A single-component utility that produces a stable, believable look/aim target in front of a character. It mirrors when the real target goes behind, enforces vertical angle limits to avoid neck-breaking poses, and smooths the motion to prevent jitter - perfect as input for Animation Rigging constraints or Animator LookAt.
 
 ![screenshot](Documentation/Screenshot.png)
 
