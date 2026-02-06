@@ -1,7 +1,7 @@
 {
-  "name": "com.unityessentials.animationrigging",
-  "version": "1.0.0",
-  "displayName": "Unity Humanoid AnimationRigging",
+  "name": "com.unityessentials.humanoid.rigging",
+  "version": "2.0.0",
+  "displayName": "Humanoid AnimationRigging",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
   "unityRelease": "",
