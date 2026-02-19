@@ -1,12 +1,12 @@
 {
   "name": "com.unityessentials.humanoid.rigging",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "displayName": "Humanoid AnimationRigging",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
   "unityRelease": "",
   "dependencies": {
-    "com.unityessentials.editor.attributes.foldout": "2.0.0"
+    "com.unityessentials.editor.attributes.foldout": "~2.0.0"
   },
   "keywords": [],
   "author": {
